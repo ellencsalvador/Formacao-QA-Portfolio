@@ -1,0 +1,7 @@
+--- Minha Lista de Tarefas ---
+
+- Comprar pão e leite
+- Estudar a biblioteca OS do Python
+- Resolver o desafio do Caique
+- Fazer a reunião com o squad
+- Subir o código para o GitHub
